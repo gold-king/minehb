@@ -1,5 +1,4 @@
 #+TITLE: MineHB
-*****
 
-# Intro
+* Intro
   мэр хостс бэкар
