@@ -893,6 +893,8 @@ ff02::3 ip6-allhosts
 220.255.2.153	bigcache.googleapis.com
 220.255.2.153	chart.googleapis.com
 220.255.2.153	content.googleapis.com
+220.255.2.153	khms0.googleapis.com
+220.255.2.153	khms1.googleapis.com
 220.255.2.153	maps.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
 216.58.221.112	commondatastorage.googleapis.com
