@@ -537,6 +537,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	accounts.google.co.nz
 220.255.2.153	id.google.co.nz
 220.255.2.153	www.googlecode.com
+220.255.2.153	fuchsia.googlesource.com
 220.255.2.153	googlesource.com
 220.255.2.153	gerrit.googlesource.com
 220.255.2.153	chromium.googlesource.com
