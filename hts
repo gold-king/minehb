@@ -215,13 +215,13 @@ ff02::3 ip6-allhosts
 184.28.188.153	b.static.ak.fbcdn.net
 184.28.188.153	static.ak.fbcdn.net
 184.28.188.153	origincache-ai-01-05-ash3.fbcdn.net
-183.111.23.18	profile.ak.fbcdn.net
-183.111.23.18	vpn.tfbnw.net
-183.111.23.18	ent-a.xx.fbcdn.net
-183.111.23.18	ent-b.xx.fbcdn.net
-183.111.23.18	ent-c.xx.fbcdn.net
-183.111.23.18	ent-d.xx.fbcdn.net
-183.111.23.18	ent-e.xx.fbcdn.net
+31.13.66.9	profile.ak.fbcdn.net
+31.13.66.9	vpn.tfbnw.net
+31.13.66.9	ent-a.xx.fbcdn.net
+31.13.66.9	ent-b.xx.fbcdn.net
+31.13.66.9	ent-c.xx.fbcdn.net
+31.13.66.9	ent-d.xx.fbcdn.net
+31.13.66.9	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 31.13.95.17	static.thefacebook.com
@@ -276,6 +276,8 @@ ff02::3 ip6-allhosts
 220.255.2.153	contributor.google.com
 220.255.2.153	desktop.google.com
 220.255.2.153	desktop2.google.com
+220.255.2.153	dl.google.com
+220.255.2.153	dl.l.google.com
 220.255.2.153	encrypted.google.com
 220.255.2.153	encrypted-tbn0.google.com
 220.255.2.153	encrypted-tbn1.google.com
@@ -428,6 +430,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	uploads.stage.gdata.youtube.com
 220.255.2.153	answers.google.com
 220.255.2.153	wenda.google.com.hk
+220.255.2.153	android.googleblog.com
 220.255.2.153	security.googleblog.com
 220.255.2.153	gmail.googleblog.com
 220.255.2.153	chrome.googleblog.com
@@ -442,6 +445,8 @@ ff02::3 ip6-allhosts
 220.255.2.153	accounts.blogger.com
 220.255.2.153	www.blogger.com
 220.255.2.153	blogger.com
+220.255.2.153	www.googleblog.com
+220.255.2.153	googleblog.com
 220.255.2.153	blogger.google.com
 220.255.2.153	www2.blogger.com
 220.255.2.153	www.blogblog.com
@@ -478,6 +483,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	google-latlong.blogspot.com
 220.255.2.153	insidesearch.blogspot.com
 220.255.2.153	googleadsdeveloper.blogspot.com
+220.255.2.153	officialandroid.blogspot.com
 220.255.2.153	android-developers.blogspot.com
 220.255.2.153	android-developers.blogspot.hk
 220.255.2.153	program-think.blogspot.com
@@ -521,6 +527,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	www.chromium.org
 220.255.2.153	dev.chromium.org
 220.255.2.153	blog.chromium.org
+64.233.188.121	bugs.chromium.org
 # 74.125.248.71	build.chromium.org
 # 74.125.248.72	src.chromium.org
 # 74.125.248.73	git.chromium.org
@@ -814,8 +821,15 @@ ff02::3 ip6-allhosts
 220.255.2.153	www.registry.google
 220.255.2.153	www.domains.google
 220.255.2.153	registry.google
-220.255.2.153 servicemanagement.clients6.google.com
-220.255.2.153 cloudconsole-pa.clients6.google.com
+220.255.2.153	servicemanagement.clients6.google.com
+220.255.2.153	cloudconsole-pa.clients6.google.com
+220.255.2.153	360suite.google.com
+220.255.2.153	optimize.google.com
+216.58.203.85	attribution.google.com
+220.255.2.153	audiencecenter.google.com
+220.255.2.153	datastudio.google.com
+220.255.2.153	studykit.google.com
+220.255.2.153	business.google.com
 
 # gstatic Start
 220.255.2.153	geo0.ggpht.com
@@ -898,7 +912,6 @@ ff02::3 ip6-allhosts
 220.255.2.153	khms1.googleapis.com
 220.255.2.153	maps.googleapis.com
 220.255.2.153	origin-commondatastorage.googleapis.com
-216.58.221.112	commondatastorage.googleapis.com
 216.58.221.144	commondatastorage.googleapis.com
 220.255.2.153	play.googleapis.com
 220.255.2.153	plus.googleapis.com
@@ -918,13 +931,13 @@ ff02::3 ip6-allhosts
 220.255.2.153	securetoken.googleapis.com
 220.255.2.153	firebasestorage.googleapis.com
 64.233.188.121	code.getmdl.io
-# 216.58.221.48	storage.googleapis.com
-# 216.58.221.48	bucket.commondatastorage.googleapis.com
-# 216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
-# 216.58.221.48	c.commondatastorage.googleapis.com
-# 216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
-# 216.58.221.48	gweb-letour.storage.googleapis.com
-# Googleaps End
+#216.58.221.48	storage.googleapis.com
+#216.58.221.48	bucket.commondatastorage.googleapis.com
+#216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
+#216.58.221.48	c.commondatastorage.googleapis.com
+#216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
+#216.58.221.48	gweb-letour.storage.googleapis.com
+# Googleapis End
 
 220.255.2.153	www.googlehosted.com
 220.255.2.153	base.googlehosted.com
@@ -955,6 +968,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	tour.golang.org
 74.125.28.14	google.golang.org
 220.255.2.153	goo.gl
+220.255.2.153	pay.app.goo.gl
 220.255.2.153	g.co
 220.255.2.153	www.google.org
 220.255.2.153	blog.google.org
@@ -1124,7 +1138,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	developer.android.com
 220.255.2.153	dev.android.com
 220.255.2.153	d.android.com
-64.233.188.121  b.android.com
+64.233.188.121	b.android.com
 64.233.188.121	tools.android.com
 220.255.2.153	source.android.com
 220.255.2.153	market.android.com
@@ -2889,6 +2903,7 @@ ff02::3 ip6-allhosts
 64.233.188.121	ghs46.google.com
 64.233.188.121	ghs.l.google.com
 64.233.188.121	ghs46.l.google.com
+64.233.188.121	www.nianticlabs.com
 64.233.188.121	gsamplemaps.googlepages.com
 64.233.188.121	javascript-blocker.toggleable.com
 64.233.188.121	goto.ext.google.com
@@ -2931,6 +2946,11 @@ ff02::3 ip6-allhosts
 64.233.171.192	supl.google.com
 # Google:A-GPS End
 
+# Google:Made the code for girls Start
+216.239.38.21	madewithcode.com
+216.239.38.21	www.madewithcode.com
+# Google:Made the code for girls End
+
 # Google CN Start
 # 203.208.41.144	0.gvt0.cn
 # 203.208.41.144	1.gvt0.cn
@@ -2940,8 +2960,6 @@ ff02::3 ip6-allhosts
 # 203.208.41.144	blogsearch.google.cn
 # 203.208.41.144	books.google.cn
 # 203.208.41.144	ditu.google.cn
-# 203.208.41.144	dl.google.com
-# 203.208.41.144	dl.l.google.com
 # 203.208.41.144	fonts.googleapis.com
 # 203.208.41.144	g.cn
 # 203.208.41.144	gg.google.cn
