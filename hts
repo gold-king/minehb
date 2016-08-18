@@ -953,6 +953,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	play.golang.org
 220.255.2.153	tip.golang.org
 220.255.2.153	tour.golang.org
+74.125.28.14	google.golang.org
 220.255.2.153	goo.gl
 220.255.2.153	g.co
 220.255.2.153	www.google.org
@@ -1122,6 +1123,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	connectivitycheck.android.com
 220.255.2.153	developer.android.com
 220.255.2.153	dev.android.com
+220.255.2.153	d.android.com
 64.233.188.121  b.android.com
 64.233.188.121	tools.android.com
 220.255.2.153	source.android.com
