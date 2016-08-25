@@ -264,6 +264,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	accounts.google.com
 220.255.2.153	aboutme.google.com
 220.255.2.153	passwords.google.com
+220.255.2.153	takeout.google.com
 220.255.2.153	bpui0.google.com
 220.255.2.153	cse.google.com
 220.255.2.153	clients1.google.com
@@ -2941,6 +2942,10 @@ ff02::3 ip6-allhosts
 64.233.188.188	gcm-preprod.l.google.com
 64.233.188.188	gcm-preprod.googleapis.com
 # Google:gcm End
+
+# Goole:duo Start
+220.255.2.153	instantmessaging-pa.googleapis.com
+# Goole:duo End
 
 # Google:A-GPS Start
 64.233.171.192	supl.google.com
