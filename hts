@@ -340,8 +340,6 @@ ff02::3 ip6-allhosts
 220.255.2.153	contributor.google.com
 220.255.2.153	desktop.google.com
 220.255.2.153	desktop2.google.com
-220.255.2.153	dl.google.com
-220.255.2.153	dl.l.google.com
 220.255.2.153	encrypted.google.com
 220.255.2.153	encrypted-tbn0.google.com
 220.255.2.153	encrypted-tbn1.google.com
@@ -596,6 +594,8 @@ ff02::3 ip6-allhosts
 # 74.125.248.72	src.chromium.org
 # 74.125.248.73	git.chromium.org
 # 220.255.2.153	codereview.chromium.org
+#220.255.2.153	dl.google.com
+#220.255.2.153	dl.l.google.com
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	hstspreload.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
@@ -783,8 +783,8 @@ ff02::3 ip6-allhosts
 220.255.2.153	mts3.google.com
 220.255.2.153	mobilemaps.clients.google.com
 220.255.2.153	music.google.com
-64.233.162.81	scholar.googleusercontent.com
 220.255.2.153	music.googleusercontent.com
+64.233.162.81	scholar.googleusercontent.com
 220.255.2.153	uploadsj.clients.google.com
 220.255.2.153	news.google.com
 220.255.2.153	news.google.com.hk
@@ -890,7 +890,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	servicemanagement.clients6.google.com
 220.255.2.153	cloudconsole-pa.clients6.google.com
 220.255.2.153	iam.clients6.google.com
-20.255.2.153	clientauthconfig.clients6.google.com
+220.255.2.153	clientauthconfig.clients6.google.com
 220.255.2.153	360suite.google.com
 220.255.2.153	optimize.google.com
 216.58.203.85	attribution.google.com
@@ -2933,21 +2933,21 @@ ff02::3 ip6-allhosts
 # Google:others End
 
 # Gmail SMTP/POP/IMAP Start
-64.233.188.109	gmail-imap.l.google.com
-64.233.188.16	googlemail-imap.l.google.com
-64.233.188.108	gmail-smtp.l.google.com
-64.233.188.16	googlemail-smtp.l.google.com
-64.233.188.109	gmail-pop.l.google.com
-64.233.188.16	googlemail-pop.l.google.com
-64.233.188.109	imap.gmail.com
-64.233.188.16	imap.googlemail.com
-64.233.188.109	smtp.gmail.com
-64.233.188.16	smtp.googlemail.com
-64.233.188.109	pop.gmail.com
-64.233.188.16	pop.googlemail.com
-64.233.188.109	gmail-smtp-msa.l.google.com
-64.233.188.27	gmail-smtp-in.l.google.com
 64.233.188.14	gmr-smtp-in.l.google.com
+64.233.188.16	googlemail-imap.l.google.com
+64.233.188.16	googlemail-smtp.l.google.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.16	pop.googlemail.com
+64.233.188.16	imap.googlemail.com
+64.233.188.16	smtp.googlemail.com
+64.233.188.27	gmail-smtp-in.l.google.com
+64.233.188.109	gmail-imap.l.google.com
+64.233.188.109	gmail-pop.l.google.com
+64.233.188.109	gmail-smtp.l.google.com
+64.233.188.109	imap.gmail.com
+64.233.188.109	smtp.gmail.com
+64.233.188.109	pop.gmail.com
+64.233.188.109	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
 
 # Google:stun Server Start
