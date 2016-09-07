@@ -315,6 +315,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	mail.google.com
 220.255.2.153	www.gmail.com
 220.255.2.153	mail-settings.google.com
+64.233.188.121	m.android.com
 # Gmail web End
 
 # Google Start
@@ -614,6 +615,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	chromium.googlesource.com
 220.255.2.153	kernel.googlesource.com
 220.255.2.153	android-review.googlesource.com
+220.255.2.153	r.android.com
 220.255.2.153	gwt.googlesource.com
 220.255.2.153	code.google.com
 220.255.2.153	uploads.code.google.com
@@ -767,6 +769,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	cbks1.google.com
 220.255.2.153	cbks2.google.com
 220.255.2.153	cbks3.google.com
+220.255.2.153	ipv4.google.com
 220.255.2.153	mw1.google.com
 220.255.2.153	mw2.google.com
 220.255.2.153	mt.google.com
@@ -1209,6 +1212,7 @@ ff02::3 ip6-allhosts
 64.233.188.121	b.android.com
 64.233.188.121	tools.android.com
 220.255.2.153	source.android.com
+220.255.2.153	a.android.com
 220.255.2.153	market.android.com
 220.255.2.153	play.google.com
 220.255.2.153	payments.google.com
@@ -3077,40 +3081,41 @@ ff02::3 ip6-allhosts
 # Google CN End
 # Google End
 
+
 # Twitter Start
-185.45.5.45	twitter.com
-185.45.5.45	www.twitter.com
+104.244.42.3	twitter.com
+104.244.42.3	www.twitter.com
 104.244.42.5	t.co
-185.45.5.45	api.twitter.com
-185.45.5.45	mobile.twitter.com
-185.45.5.45	support.twitter.com
-185.45.5.45	upload.twitter.com
-185.45.5.45	tweetdeck.twitter.com
-185.45.5.45	syndication.twitter.com
-185.45.5.45	syndication-o.twitter.com
-185.45.5.45	platform.twitter.com
-185.45.5.45	about.twitter.com
-185.45.5.45	blog.twitter.com
-185.45.5.45	p.twitter.com
-185.45.5.45	betastream.twitter.com
-185.45.5.45	dev.twitter.com
-185.45.5.45	pic.twitter.com
-185.45.5.45	search.twitter.com
-185.45.5.45	status.twitter.com
-185.45.5.45	assets0.twitter.com
-185.45.5.45	assets1.twitter.com
-185.45.5.45	assets2.twitter.com
-185.45.5.45	assets3.twitter.com
-185.45.5.45	static.twitter.com
-185.45.5.45	help.twitter.com
-185.45.5.45	ton.twitter.com
-185.45.5.45	s.twitter.com
-185.45.5.45	analytics.twitter.com
-185.45.5.45	urls-real.api.twitter.com
-185.45.5.45	userstream.twitter.com
-185.45.5.45	sitestream.twitter.com
-185.45.5.45	stream.twitter.com
-185.45.5.45	tdweb.twitter.com
+104.244.42.3	api.twitter.com
+104.244.42.3	mobile.twitter.com
+104.244.42.3	support.twitter.com
+104.244.42.3	upload.twitter.com
+104.244.42.3	tweetdeck.twitter.com
+104.244.42.3	syndication.twitter.com
+104.244.42.3	syndication-o.twitter.com
+104.244.42.3	platform.twitter.com
+104.244.42.3	about.twitter.com
+104.244.42.3	blog.twitter.com
+104.244.42.3	p.twitter.com
+104.244.42.3	betastream.twitter.com
+104.244.42.3	dev.twitter.com
+104.244.42.3	pic.twitter.com
+104.244.42.3	search.twitter.com
+104.244.42.3	status.twitter.com
+104.244.42.3	assets0.twitter.com
+104.244.42.3	assets1.twitter.com
+104.244.42.3	assets2.twitter.com
+104.244.42.3	assets3.twitter.com
+104.244.42.3	static.twitter.com
+104.244.42.3	help.twitter.com
+104.244.42.3	ton.twitter.com
+104.244.42.3	s.twitter.com
+104.244.42.3	analytics.twitter.com
+104.244.42.3	urls-real.api.twitter.com
+104.244.42.3	userstream.twitter.com
+104.244.42.3	sitestream.twitter.com
+104.244.42.3	stream.twitter.com
+104.244.42.3	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -3171,13 +3176,12 @@ ff02::3 ip6-allhosts
 104.244.42.132	web.tweetdeck.com
 104.244.42.132	www.tweetdeck.com
 104.244.42.132	downloads.tweetdeck.com
-185.45.5.45	cdn.syndication.twimg.com
-185.45.5.45	cdn.syndication.twitter.com
-185.45.5.45	cdn.api.twitter.com
-185.45.5.45	preview.cdn.twitter.com
-185.45.5.45	apps.twitter.com
+104.244.42.3	cdn.syndication.twimg.com
+104.244.42.3	cdn.syndication.twitter.com
+104.244.42.3	cdn.api.twitter.com
+104.244.42.3	preview.cdn.twitter.com
+104.244.42.3	apps.twitter.com
 # Twitter End
-
 
 # Tumblr Start
 66.6.44.4	tumblr.com
