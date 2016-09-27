@@ -328,8 +328,10 @@ ff02::3 ip6-allhosts
 220.255.2.153	com.google
 220.255.2.153	admin.google.com
 220.255.2.153	accounts.google.com
+220.255.2.153	accounts.google.cn
 220.255.2.153	aboutme.google.com
 220.255.2.153	passwords.google.com
+220.255.2.153	privacy.google.com
 220.255.2.153	takeout.google.com
 220.255.2.153	bpui0.google.com
 220.255.2.153	cse.google.com
@@ -495,6 +497,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	uploads.stage.gdata.youtube.com
 220.255.2.153	answers.google.com
 220.255.2.153	wenda.google.com.hk
+220.255.2.153	analytics.googleblog.com
 220.255.2.153	android.googleblog.com
 220.255.2.153	research.googleblog.com
 220.255.2.153	security.googleblog.com
@@ -582,8 +585,10 @@ ff02::3 ip6-allhosts
 220.255.2.153	calendar.google.com
 220.255.2.153	checkout.google.com
 220.255.2.153	wallet.google.com
+220.255.2.153	chrome.com
 220.255.2.153	www.chrome.com
 220.255.2.153	developer.chrome.com
+220.255.2.153	www.chromestatus.com
 220.255.2.153	chrome.google.com
 220.255.2.153	browsersync.google.com
 220.255.2.153	toolbarqueries.google.com
@@ -591,6 +596,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	toolbarqueries.clients.google.com
 220.255.2.153	chromium.org
 220.255.2.153	www.chromium.org
+220.255.2.153	cs.chromium.org
 220.255.2.153	dev.chromium.org
 220.255.2.153	blog.chromium.org
 64.233.188.121	bugs.chromium.org
@@ -600,6 +606,9 @@ ff02::3 ip6-allhosts
 # 220.255.2.153	codereview.chromium.org
 #220.255.2.153	dl.google.com
 #220.255.2.153	dl.l.google.com
+220.255.2.153	www.appspot.com
+220.255.2.153	appspot.com
+220.255.2.153	apis-explorer.appspot.com
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	hstspreload.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
@@ -841,6 +850,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	sb.google.com
 220.255.2.153	sb-ssl.google.com
 220.255.2.153	safebrowsing.google.com
+220.255.2.153	search.google.com
 220.255.2.153	alt1-safebrowsing.google.com
 220.255.2.153	safebrowsing.clients.google.com
 220.255.2.153	safebrowsing-cache.google.com
@@ -895,6 +905,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	www.registry.google
 220.255.2.153	www.domains.google
 220.255.2.153	registry.google
+220.255.2.153	apikeys.clients6.google.com
 220.255.2.153	servicemanagement.clients6.google.com
 220.255.2.153	cloudconsole-pa.clients6.google.com
 220.255.2.153	iam.clients6.google.com
@@ -980,7 +991,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	chart.apis.google.com
 220.255.2.153	googleapis.com
 220.255.2.153	www.googleapis.com
-220.255.2.153	ajax.googleapis.com
+64.233.188.214	ajax.googleapis.com
 220.255.2.153	android.googleapis.com
 220.255.2.153	bigcache.googleapis.com
 220.255.2.153	chart.googleapis.com
@@ -995,6 +1006,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	redirector-bigcache.googleapis.com
 220.255.2.153	translate.googleapis.com
 220.255.2.153	youtube.googleapis.com
+220.255.2.153	youtubei.googleapis.com
 220.255.2.153	mt0.googleapis.com
 220.255.2.153	mt1.googleapis.com
 220.255.2.153	mt2.googleapis.com
@@ -1004,11 +1016,12 @@ ff02::3 ip6-allhosts
 220.255.2.153	mts2.googleapis.com
 220.255.2.153	mts3.googleapis.com
 220.255.2.153	ct.googleapis.com
-220.255.2.153	commondatastorage.googleapis.com
 220.255.2.153	securetoken.googleapis.com
 220.255.2.153	firebasestorage.googleapis.com
+220.255.2.153	www--google--com.safenup.googleusercontent.com
+220.255.2.153	www--google--com--hk.safenup.googleusercontent.com
 64.233.188.121	code.getmdl.io
-#216.58.221.48	storage.googleapis.com
+64.233.189.128	storage.googleapis.com
 #216.58.221.48	bucket.commondatastorage.googleapis.com
 #216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
 #216.58.221.48	c.commondatastorage.googleapis.com
@@ -1144,7 +1157,6 @@ ff02::3 ip6-allhosts
 220.255.2.153	spreadsheets.l.google.com
 220.255.2.153	spreadsheets-china.l.google.com
 220.255.2.153	sslvideo-upload.l.google.com
-220.255.2.153	ssl-google-analytics.l.google.com
 220.255.2.153	static.cache.l.google.com
 220.255.2.153	suggestqueries.l.google.com
 220.255.2.153	tbn.l.google.com
@@ -1220,6 +1232,7 @@ ff02::3 ip6-allhosts
 220.255.2.153	source.android.com
 220.255.2.153	a.android.com
 220.255.2.153	market.android.com
+220.255.2.153	mcs.android.com
 220.255.2.153	play.google.com
 220.255.2.153	payments.google.com
 220.255.2.153	android.clients.google.com
@@ -1242,9 +1255,9 @@ ff02::3 ip6-allhosts
 220.255.2.153	googlehosted.l.googleusercontent.com
 220.255.2.153	googlecode.l.googleusercontent.com
 220.255.2.153	googlegroups.l.googleusercontent.com
+220.255.2.153	markuphelper.googleusercontent.com
 220.255.2.153	orkut-opensocial.l.googleusercontent.com
 220.255.2.153	photos-ugc.l.googleusercontent.com
-220.255.2.153	static.googleusercontent.com
 220.255.2.153	storage.l.googleusercontent.com
 220.255.2.153	storage-ugc.l.googleusercontent.com
 220.255.2.153	a-fc-opensocial.googleusercontent.com
@@ -2927,7 +2940,6 @@ ff02::3 ip6-allhosts
 220.255.2.153	kickwithchrome.withgoogle.com
 220.255.2.153	candidatos.withgoogle.com
 220.255.2.153	trendstw.withgoogle.com
-220.255.2.153	spellup.withgoogle.com
 220.255.2.153	impactchallenge.withgoogle.com
 220.255.2.153	virustotalcloud.appspot.com
 220.255.2.153	eduproducts.withgoogle.com
@@ -3072,8 +3084,9 @@ ff02::3 ip6-allhosts
 # 203.208.41.144	pagead2.googlesyndication.com
 # 203.208.41.144	www.googletagservices.com
 # 203.208.41.144	www.google-analytics.com
-# 203.208.41.144	googleads.g.doubleclick.net
 # 203.208.41.144	ssl.google-analytics.com
+# 203.208.41.144	ssl-google-analytics.l.google.com
+# 203.208.41.144	googleads.g.doubleclick.net
 # 203.208.41.144	googletagmanager.com
 # 203.208.41.144	www.googletagmanager.com
 # 203.208.41.144	fonts.gstatic.com
@@ -3087,7 +3100,6 @@ ff02::3 ip6-allhosts
 # 203.208.41.144	buttons.googlesyndication.com
 # Google CN End
 # Google End
-
 
 # Twitter Start
 104.244.42.3	twitter.com
@@ -3191,16 +3203,15 @@ ff02::3 ip6-allhosts
 # Twitter End
 
 # Tumblr Start
-66.6.44.4	tumblr.com
-66.6.44.4	tumblr.co
-66.6.44.4	api.tumblr.com
-66.6.44.4	api.tumblr.com
-66.6.44.4	assets.tumblr.com
-66.6.44.4	www.tumblr.com
-66.6.44.4	cynicallys.tumblr.com
-66.6.32.34	mx.tumblr.com
+66.6.32.151	tumblr.com
+66.6.32.4	tumblr.co
+66.6.32.4	api.tumblr.com
+66.6.33.25	assets.tumblr.com
+66.6.32.4	www.tumblr.com
+66.6.32.22	cynicallys.tumblr.com
+66.6.32.4	mx.tumblr.com
 66.6.32.34	px.srvcs.tumblr.com
-54.192.86.85	media.tumblr.com
+66.6.32.22	media.tumblr.com
 54.192.98.136	30.media.tumblr.com
 54.230.75.191	31.media.tumblr.com
 54.192.98.136	32.media.tumblr.com
@@ -3223,10 +3234,8 @@ ff02::3 ip6-allhosts
 192.229.237.98	49.media.tumblr.com
 209.197.3.20	50.media.tumblr.com
 209.197.3.20	90.media.tumblr.com
-209.197.3.20	65.media.tumblr.com
-192.229.237.98	65.media.tumblr.com
-192.229.237.98	66.media.tumblr.com
-209.197.3.20	67.media.tumblr.com
+#192.229.237.98	65.media.tumblr.com
+#192.229.237.98	66.media.tumblr.com
 209.197.3.20	91.media.tumblr.com
 192.229.237.98	92.media.tumblr.com
 209.197.3.20	93.media.tumblr.com
@@ -3236,21 +3245,10 @@ ff02::3 ip6-allhosts
 192.229.237.98	97.media.tumblr.com
 209.197.3.20	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
-68.232.35.63	secure.assets.tumblr.com
+66.6.32.25	secure.assets.tumblr.com
 54.230.74.176	secure.static.tumblr.com
-54.192.111.4	secure.assets.tumblr.com
-66.6.44.162	ls.srvcs.tumblr.com
-54.230.75.191	media.tumblr.com
-54.182.4.222	media.tumblr.com
-54.230.74.176	assets.tumblr.com
-54.230.213.24	assets.tumblr.com
-54.230.74.143	vt.tumblr.com
-54.230.74.216	vt.tumblr.com
-54.230.151.138	vt.tumblr.com
-52.84.189.141	vt.tumblr.com
-54.192.111.6	secure.static.tumblr.com
-54.230.213.90	secure.static.tumblr.com
-54.230.74.143	secure.static.tumblr.com
+66.6.32.162	ls.srvcs.tumblr.com
+66.6.32.21	vt.tumblr.com
 # Tumblr End
 
 # Instagram Start
