@@ -2502,12 +2502,10 @@ ff02::3 ip6-allhosts
 220.255.2.153	m.google.com.sg
 220.255.2.153	mobile.google.com
 220.255.2.153	mobile.l.google.com
-# 220.255.2.153	ext.google.com
-216.58.217.12	proxy.googlezip.net
-# 216.58.217.12	check.googlezip.net
-216.58.217.12	compress.googlezip.net
-216.58.217.12	proxy-dev.googlezip.net
-220.255.2.153	polymer-project.org
+216.58.196.236	proxy.googlezip.net
+216.58.196.236	compress.googlezip.net
+216.58.196.236	proxy-dev.googlezip.net
+216.239.34.21	polymer-project.org
 220.255.2.153	www.polymer-project.org
 220.255.2.153	talkgadget.l.google.com
 220.255.2.153	hangouts.google.com
@@ -3050,59 +3048,6 @@ ff02::3 ip6-allhosts
 216.239.38.21	www.madewithcode.com
 # Google:Made the code for girls End
 
-# Google CN Start
-# 203.208.41.144	0.gvt0.cn
-# 203.208.41.144	1.gvt0.cn
-# 203.208.41.144	2.gvt0.cn
-# 203.208.41.144	265.com
-# 203.208.41.144	3.gvt0.cn
-# 203.208.41.144	blogsearch.google.cn
-# 203.208.41.144	books.google.cn
-# 203.208.41.144	ditu.google.cn
-# 203.208.41.144	fonts.googleapis.com
-# 203.208.41.144	g.cn
-# 203.208.41.144	gg.google.cn
-# 203.208.41.144	google.cn
-# 203.208.41.144	groups.google.cn
-# 203.208.41.144	id.google.cn
-# 203.208.41.144	labs.google.cn
-# 203.208.41.144	m.google.cn
-# 203.208.41.144	maps.gstatic.cn
-# 203.208.41.144	mt.google.cn
-# 203.208.41.144	mt0.google.cn
-# 203.208.41.144	mt1.google.cn
-# 203.208.41.144	mt2.google.cn
-# 203.208.41.144	mt3.google.cn
-# 203.208.41.144	news.google.cn
-# 203.208.41.144	pack.google.cn
-# 203.208.41.144	scholar.google.cn
-# 203.208.41.144	static.googleadsserving.cn
-# 203.208.41.144	translate.google.cn
-# 203.208.41.144	video.google.cn
-# 203.208.41.144	www.265.com
-# 203.208.41.144	www.google.cn
-# 203.208.41.144	www.gstatic.cn
-# 203.208.41.144	www.gvt0.cn
-# 203.208.41.144	tpc.googlesyndication.com
-# 203.208.41.144	domains.googlesyndication.com
-# 203.208.41.144	pagead2.googlesyndication.com
-# 203.208.41.144	www.googletagservices.com
-# 203.208.41.144	www.google-analytics.com
-# 203.208.41.144	ssl.google-analytics.com
-# 203.208.41.144	ssl-google-analytics.l.google.com
-# 203.208.41.144	googleads.g.doubleclick.net
-# 203.208.41.144	googletagmanager.com
-# 203.208.41.144	www.googletagmanager.com
-# 203.208.41.144	fonts.gstatic.com
-# 203.208.41.144	fls.uk.doubleclick.net
-# 203.208.41.144	csi.gstatic.com
-# 203.208.41.144	www-google-analytics.l.google.com
-# 203.208.41.144	www-googletagmanager.l.google.com
-# 203.208.41.144	partner.googleadservices.com
-# 203.208.41.144	pagead.google.com
-# 203.208.41.144	pagead2.googleadservices.com
-# 203.208.41.144	buttons.googlesyndication.com
-# Google CN End
 # Google End
 
 # Twitter Start
