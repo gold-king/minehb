@@ -9,6 +9,22 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
 
+# Apkpure Start
+104.20.82.194	apkpure.com
+104.20.82.194	a.apkpure.com
+104.20.82.194	download.apkpure.com
+104.20.82.194	m.apkpure.com
+104.20.82.194	static.apkpure.com
+104.20.82.194	translate.apkpure.com
+# Apkpure End
+
+# Archive Start
+207.241.224.22	archive.org
+207.241.224.22	www.archive.org
+207.241.224.22	ia802704.us.archive.org
+207.241.224.22	analytics.archive.org
+207.241.226.190	web.archive.org
+# Archive End
 
 # DuckDuckGo Start
 46.51.216.186	duckduckgo.com
@@ -31,35 +47,31 @@ ff02::3 ip6-allhosts
 
 # Box.com Start
 74.112.184.70	app.box.com
-74.112.184.90	box.com
 74.112.184.85	m.box.com
-104.218.203.34	support.box.com
-74.112.184.85	www.box.com
-74.112.184.80	www.box.net
 # Box.com End
 
 # Dropbox Start
 #######
 # Warning: SNIProxy being used.
-218.254.1.13	db.tt
-218.254.1.13	dropbox.com
-218.254.1.13	m.dropbox.com
-218.254.1.13	www.v.dropbox.com
-218.254.1.13	dl-debug.dropbox.com
+110.4.24.178	db.tt
+110.4.24.178	dropbox.com
+110.4.24.178	m.dropbox.com
+110.4.24.178	www.v.dropbox.com
+110.4.24.178	dl-debug.dropbox.com
+110.4.24.178	www.dropbox.com
 #######
-162.125.82.1	www.dropbox.com
 52.85.76.60	linux.dropbox.com
-108.160.172.193	d.dropbox.com
-108.160.172.193	d.v.dropbox.com
+108.160.172.225	d.dropbox.com
+108.160.172.225	d.v.dropbox.com
 162.125.18.132	dl-doc.dropbox.com
-108.160.172.193	api-d.dropbox.com
-108.160.172.237	api.dropboxapi.com
-108.160.172.237	api.dropbox.com
-108.160.172.237	api.v.dropbox.com
-108.160.172.237	api-notify.dropbox.com
-108.160.172.233	www.dropboxstatic.com
+108.160.172.225	api-d.dropbox.com
+108.160.172.225	api.dropboxapi.com
+108.160.172.225	api.dropbox.com
+108.160.172.225	api.v.dropbox.com
+108.160.172.225	api-notify.dropbox.com
+108.160.172.225	www.dropboxstatic.com
 104.16.100.29	cfl.dropboxstatic.com
-108.160.172.201	dbxlocal.dropboxstatic.com
+108.160.172.229	dbxlocal.dropboxstatic.com
 199.47.217.36	api-content.dropbox.com
 199.47.217.36	api-content-photos.dropbox.com
 108.160.172.207	photos.dropbox.com
@@ -109,8 +121,29 @@ ff02::3 ip6-allhosts
 # Medium end
 
 #nytimes for mobile Start
-170.149.168.162	nytimes.com
-170.149.168.162	www.nytimes.com
+170.149.159.135	nytimes.com
+52.84.219.212	cn.nytimes.com
+52.84.219.212	m.cn.nytimes.com
+184.84.127.110	www.nytimes.com
+184.84.127.110	graphics8.nytimes.com
+184.84.127.110	json8.nytimes.com
+184.84.127.110	typeface.nytimes.com
+184.84.127.110	typeface.nyt.com
+184.84.127.110	a1.nyt.com
+184.84.127.110	s1.nyt.com
+184.84.127.110	i1.nyt.com
+184.84.127.110	static01.nyt.com
+184.84.127.110	static02.nyt.com
+184.84.127.110	static03.nyt.com
+184.84.127.110	static04.nyt.com
+184.84.127.110	static05.nyt.com
+184.84.127.110	static06.nyt.com
+184.84.127.110	static07.nyt.com
+184.84.127.110	static08.nyt.com
+184.84.127.110	static09.nyt.com
+184.84.127.110	js.nyt.com
+184.84.127.110	css.nyt.com
+184.84.127.110	int.nyt.com
 #nytimes for mobile End
 
 # telegram start
@@ -118,13 +151,17 @@ ff02::3 ip6-allhosts
 149.154.167.99	desktop.telegram.org
 149.154.167.99	core.telegram.org
 149.154.167.99	macos.telegram.org
+149.154.167.120	web.telegram.org
 # telegram end
 
-# Flickr Start
-192.0.79.32 code.flickr.com
+# Yahoo Start
+192.0.79.32	code.flickr.com
 121.101.144.112	api.flickr.com
+202.43.194.205	c5.ah.yahoo.com
 119.160.254.215	d.yimg.com
+106.10.136.195	de.yahoo.com
 119.160.254.215	e.yimg.com
+98.139.21.169	edit.yahoo.com
 106.10.137.23	farm1.staticflickr.com
 106.10.137.23	farm2.staticflickr.com
 106.10.137.23	farm3.staticflickr.com
@@ -143,22 +180,44 @@ ff02::3 ip6-allhosts
 74.6.47.80	gq1.farm6.staticflickr.com
 98.138.4.56	ne1.farm7.staticflickr.com
 69.147.76.173	flickr.com
+106.10.137.175	geo.query.yahoo.com
+217.12.13.41	geo.yahoo.com
+203.84.197.27	finance.yahoo.com
+121.101.144.112	hk.finance.yahoo.com
+27.123.201.252	tw.finance.yahoo.com
 119.160.254.215	h.yimg.com
+106.10.199.10	hk.news.yahoo.com
+106.10.138.240	hk.yahoo.com
+106.10.136.146	hsrd.yahoo.com
+106.10.193.20	hk-mg61.mail.yahoo.com
 119.160.254.215	l.yimg.com
-68.142.250.161	l.yimg.com
+106.10.193.20	login.yahoo.com
 208.71.44.31	m.flickr.com
+106.10.193.20	mail.yahoo.com
+203.84.197.27	mg.mail.yahoo.com
+106.10.193.20	na.edit.yahoo.com
+106.10.193.20	open.login.yahoo.com
+216.39.54.12	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
-216.115.100.102	s.yimg.com
+216.115.100.106	s.yimg.com
 119.160.254.215	s1.yimg.com
+106.10.193.20	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
+106.10.193.30	sp.analytics.yahoo.com
 106.10.137.23	static.flickr.com
+106.10.199.11	tw.news.yahoo.com
+106.10.138.240	tw.yahoo.com
 121.101.144.116	up.flickr.com
 204.0.5.34	us.js2.yimg.com
-23.62.109.75	us.js2.yimg.com
+106.10.138.240	us.yahoo.com
 183.177.81.75	www.flickr.com
+106.10.138.240	www.yahoo.com
+98.138.253.109	yahoo.com
 77.238.184.150	ying.com
 183.177.81.75	downloadr.flickr.com
-# Flickr End
+50.18.192.250	duckduckgo-owned-server.yahoo.net
+116.214.11.98	tw.mobi.yahoo.com
+# Yahoo End
 
 # Facebook start
 157.240.0.17	fb.me
@@ -210,28 +269,28 @@ ff02::3 ip6-allhosts
 157.240.0.17	vupload2.facebook.com
 157.240.0.17	d.facebook.com
 157.240.0.17	fbcdn.net
-31.13.95.14	scontent.xx.fbcdn.net
-31.13.95.14	scontent-a.xx.fbcdn.net
-31.13.95.14	scontent-b.xx.fbcdn.net
-31.13.95.14	scontent-c.xx.fbcdn.net
-31.13.95.14	scontent-d.xx.fbcdn.net
-31.13.95.14	scontent-e.xx.fbcdn.net
-31.13.95.14	scontent-mxp.xx.fbcdn.net
-31.13.95.14	scontent-a-lax.xx.fbcdn.net
-31.13.95.14	scontent-a-sin.xx.fbcdn.net
-31.13.95.14	scontent-b-lax.xx.fbcdn.net
-31.13.95.14	scontent-b-sin.xx.fbcdn.net
-31.13.95.14	ent-a.xx.fbcdn.net
-31.13.95.14	ent-b.xx.fbcdn.net
-31.13.95.14	ent-c.xx.fbcdn.net
-31.13.95.14	ent-d.xx.fbcdn.net
-31.13.95.14	ent-e.xx.fbcdn.net
+31.13.78.17	scontent.xx.fbcdn.net
+31.13.78.17	scontent-a.xx.fbcdn.net
+31.13.78.17	scontent-b.xx.fbcdn.net
+31.13.78.17	scontent-c.xx.fbcdn.net
+31.13.78.17	scontent-d.xx.fbcdn.net
+31.13.78.17	scontent-e.xx.fbcdn.net
+31.13.78.17	scontent-mxp.xx.fbcdn.net
+31.13.78.17	scontent-a-lax.xx.fbcdn.net
+31.13.78.17	scontent-a-sin.xx.fbcdn.net
+31.13.78.17	scontent-b-lax.xx.fbcdn.net
+31.13.78.17	scontent-b-sin.xx.fbcdn.net
+31.13.78.17	ent-a.xx.fbcdn.net
+31.13.78.17	ent-b.xx.fbcdn.net
+31.13.78.17	ent-c.xx.fbcdn.net
+31.13.78.17	ent-d.xx.fbcdn.net
+31.13.78.17	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 157.240.0.17	static.thefacebook.com
 157.240.0.17	attachment.fbsbx.com
-31.13.73.7	staticxx.facebook.com
-31.13.73.7	connect.facebook.net
+31.13.78.17	staticxx.facebook.com
+31.13.78.17	connect.facebook.net
 192.0.78.13	live.fb.com
 192.0.78.13	work.fb.com
 192.0.78.13	techprep.fb.com
@@ -241,7 +300,7 @@ ff02::3 ip6-allhosts
 192.0.78.13	instantarticles.fb.com
 192.0.66.2	messengerplatform.fb.com
 199.201.64.67	threatexchange.fb.com
-31.13.95.14	video.xx.fbcdn.net
+31.13.78.17	video.xx.fbcdn.net
 184.28.188.10	fbcdn-sphotos-b-a.akamaihd.net
 184.28.188.10	vthumb.ak.fbcdn.net
 184.28.188.10	photos-a.ak.fbcdn.net
@@ -2869,29 +2928,29 @@ ff02::3 ip6-allhosts
 173.236.110.98	web7.twitpic.com
 173.236.110.98	web8.twitpic.com
 173.236.110.98	web9.twitpic.com
-110.4.24.178	a0.twimg.com
-110.4.24.178	a1.twimg.com
-110.4.24.178	a2.twimg.com
-110.4.24.178	a3.twimg.com
-110.4.24.178	a4.twimg.com
-110.4.24.178	a5.twimg.com
-110.4.24.178	video.twimg.com
-110.4.24.178	abs.twimg.com
-110.4.24.178	g.twimg.com
-110.4.24.178	o.twimg.com
-110.4.24.178	p.twimg.com
-110.4.24.178	r.twimg.com
-110.4.24.178	ma.twimg.com
-110.4.24.178	pbs.twimg.com
-110.4.24.178	ton.twimg.com
-110.4.24.178	syndication.twimg.com
-110.4.24.178	syndication-o.twimg.com
-110.4.24.178	image-proxy-origin.twimg.com
-104.244.42.132	tweetdeck.com
-104.244.42.132	api.tweetdeck.com
-104.244.42.132	web.tweetdeck.com
-104.244.42.132	www.tweetdeck.com
-104.244.42.132	downloads.tweetdeck.com
+104.244.43.71	a0.twimg.com
+104.244.43.71	a1.twimg.com
+104.244.43.71	a2.twimg.com
+104.244.43.71	a3.twimg.com
+104.244.43.71	a4.twimg.com
+104.244.43.71	a5.twimg.com
+104.244.43.71	video.twimg.com
+104.244.43.71	abs.twimg.com
+104.244.43.71	g.twimg.com
+104.244.43.71	o.twimg.com
+104.244.43.71	p.twimg.com
+104.244.43.71	r.twimg.com
+104.244.43.71	ma.twimg.com
+104.244.43.71	pbs.twimg.com
+104.244.43.71	ton.twimg.com
+104.244.43.71	syndication.twimg.com
+104.244.43.71	syndication-o.twimg.com
+104.244.43.71	image-proxy-origin.twimg.com
+104.244.42.196	tweetdeck.com
+104.244.42.196	api.tweetdeck.com
+104.244.42.196	web.tweetdeck.com
+104.244.42.196	www.tweetdeck.com
+104.244.42.196	downloads.tweetdeck.com
 110.4.24.178	cdn.syndication.twimg.com
 110.4.24.178	cdn.syndication.twitter.com
 110.4.24.178	apps.twitter.com
@@ -2905,7 +2964,7 @@ ff02::3 ip6-allhosts
 66.6.32.4	www.tumblr.com
 66.6.32.22	cynicallys.tumblr.com
 66.6.32.22	mx.tumblr.com
-54.230.74.143	vt.tumblr.com
+54.182.6.6	vt.tumblr.com
 216.115.100.126	vtt.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
@@ -2916,7 +2975,7 @@ ff02::3 ip6-allhosts
 216.115.100.125	24.media.tumblr.com
 192.229.237.98	30.media.tumblr.com
 216.115.100.126	31.media.tumblr.com
-52.85.155.236	32.media.tumblr.com
+54.239.176.79	32.media.tumblr.com
 216.115.100.126	33.media.tumblr.com
 54.230.158.13	36.media.tumblr.com
 216.115.100.126	37.media.tumblr.com
@@ -2940,200 +2999,76 @@ ff02::3 ip6-allhosts
 216.115.100.125	90.media.tumblr.com
 128.127.159.1	94.media.tumblr.com
 23.2.16.8	95.media.tumblr.com
-52.85.155.236	96.media.tumblr.com
+54.239.176.79	96.media.tumblr.com
 192.229.237.98	97.media.tumblr.com
 151.101.76.249	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
 # Tumblr End
 
-# Instagram Start
-31.13.70.52	instagram.com
-31.13.70.52	www.instagram.com
-31.13.70.52	i.instagram.com
-31.13.70.52	api.instagram.com
-31.13.70.52	help.instagram.com
-31.13.70.52	blog.instagram.com
-74.117.178.40	graph.instagram.com
-31.13.70.52	logger.instagram.com
-31.13.70.52	badges.instagram.com
-31.13.95.48	platform.instagram.com
-31.13.70.52	maps.instagram.com
-31.13.70.52	scontent.cdninstagram.com
-31.13.70.52	scontent-a.cdninstagram.com
-31.13.70.52	scontent-b.cdninstagram.com
-184.51.15.142	igcdn-photos-a-a.akamaihd.net
-184.51.15.142	igcdn-photos-b-a.akamaihd.net
-184.51.15.142	igcdn-photos-c-a.akamaihd.net
-184.51.15.142	igcdn-photos-d-a.akamaihd.net
-184.51.15.142	igcdn-photos-e-a.akamaihd.net
-184.51.15.142	igcdn-photos-f-a.akamaihd.net
-184.51.15.142	igcdn-photos-g-a.akamaihd.net
-184.51.15.142	igcdn-photos-h-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-a-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-b-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-c-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-d-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-e-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-f-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-g-19-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-0-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-1-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-2-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-3-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-4-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-5-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-6-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-7-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-8-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-9-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-10-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-11-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-12-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-13-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-14-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-15-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-16-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-17-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-18-a.akamaihd.net
-184.51.15.142	igcdn-videos-h-19-a.akamaihd.net
-184.51.15.142	instagramimages-a.akamaihd.net
-184.51.15.142	instagramstatic-a.akamaihd.net
-184.51.15.142	images.ak.instagram.com
-184.51.15.142	static.ak.instagram.com
-# Instagram End
+# Yahoo Start
+192.0.79.32	code.flickr.com
+121.101.144.112	api.flickr.com
+202.43.194.205	c5.ah.yahoo.com
+119.160.254.215	d.yimg.com
+106.10.136.195	de.yahoo.com
+119.160.254.215	e.yimg.com
+98.139.21.169	edit.yahoo.com
+106.10.137.23	farm1.staticflickr.com
+106.10.137.23	farm2.staticflickr.com
+106.10.137.23	farm3.staticflickr.com
+106.10.137.23	farm4.staticflickr.com
+106.10.137.23	farm5.staticflickr.com
+106.10.137.23	farm6.staticflickr.com
+106.10.137.23	farm7.staticflickr.com
+106.10.137.23	farm8.staticflickr.com
+106.10.137.23	farm9.staticflickr.com
+63.250.200.72	bf1.farm3.staticflickr.com
+63.250.200.72	bf1.farm6.staticflickr.com
+63.250.200.72	bf1.farm7.staticflickr.com
+74.6.47.80	gq1.farm3.staticflickr.com
+74.6.47.80	gq1.farm4.staticflickr.com
+74.6.47.80	gq1.farm5.staticflickr.com
+74.6.47.80	gq1.farm6.staticflickr.com
+98.138.4.56	ne1.farm7.staticflickr.com
+69.147.76.173	flickr.com
+106.10.137.175	geo.query.yahoo.com
+217.12.13.41	geo.yahoo.com
+203.84.197.27	finance.yahoo.com
+121.101.144.112	hk.finance.yahoo.com
+27.123.201.252	tw.finance.yahoo.com
+119.160.254.215	h.yimg.com
+106.10.199.10	hk.news.yahoo.com
+106.10.138.240	hk.yahoo.com
+106.10.136.146	hsrd.yahoo.com
+106.10.193.20	hk-mg61.mail.yahoo.com
+119.160.254.215	l.yimg.com
+106.10.193.20	login.yahoo.com
+208.71.44.31	m.flickr.com
+106.10.193.20	mail.yahoo.com
+203.84.197.27	mg.mail.yahoo.com
+106.10.193.20	na.edit.yahoo.com
+106.10.193.20	open.login.yahoo.com
+216.39.54.12	overview.mail.yahoo.com
+119.160.254.215	p.yimg.com
+216.115.100.106	s.yimg.com
+119.160.254.215	s1.yimg.com
+106.10.193.20	sa.edit.yahoo.com
+208.71.44.31	secure.flickr.com
+106.10.193.30	sp.analytics.yahoo.com
+106.10.137.23	static.flickr.com
+106.10.199.11	tw.news.yahoo.com
+106.10.138.240	tw.yahoo.com
+121.101.144.116	up.flickr.com
+204.0.5.34	us.js2.yimg.com
+106.10.138.240	us.yahoo.com
+183.177.81.75	www.flickr.com
+106.10.138.240	www.yahoo.com
+98.138.253.109	yahoo.com
+77.238.184.150	ying.com
+183.177.81.75	downloadr.flickr.com
+50.18.192.250	duckduckgo-owned-server.yahoo.net
+116.214.11.98	tw.mobi.yahoo.com
+# Yahoo End
 
 # WordPress Start
 192.0.73.2	www.gravatar.com
@@ -3146,15 +3081,15 @@ ff02::3 ip6-allhosts
 192.0.80.239	en.gravatar.com
 #192.0.80.240	en.gravatar.com
 192.0.81.250	botd2.wordpress.com
-66.155.9.238	dashboard.wordpress.com
-66.155.9.238	en.blog.wordpress.com
-66.155.9.238	en.forums.wordpress.com
-66.155.9.238	forums.wordpress.com
+192.0.78.13	dashboard.wordpress.com
+192.0.78.13	en.blog.wordpress.com
+192.0.78.13	en.forums.wordpress.com
+192.0.78.13	forums.wordpress.com
 192.0.77.2	i0.wp.com
 192.0.77.2	i1.wp.com
 192.0.77.2	i2.wp.com
-66.155.9.238	lb.wordpress.com
-66.155.9.238	lucifr.wordpress.com
+192.0.78.13	lb.wordpress.com
+192.0.78.13	lucifr.wordpress.com
 192.0.81.250	r-login.wordpress.com
 192.229.144.127	s.w.org
 68.232.44.111	s.wordpress.com
@@ -3165,13 +3100,30 @@ ff02::3 ip6-allhosts
 68.232.44.111	s2.wordpress.com
 68.232.44.111	s2.wp.com
 68.232.44.111	s3.wordpress.com
-66.155.9.238	stats.wordpress.com
-66.155.11.243	wordpress.com
-66.155.9.238	wpcom.wordpress.com
-66.155.9.238	zh.wordpress.com
-66.155.9.238	zh-cn.wordpress.com
-66.155.9.238	zh-sg.wordpress.com
+192.0.78.13	stats.wordpress.com
+192.0.78.9	wordpress.com
+192.0.78.13	wpcom.wordpress.com
+192.0.78.13	zh.wordpress.com
+192.0.78.13	zh-cn.wordpress.com
+192.0.78.13	zh-sg.wordpress.com
 # WordPress End
+
+# Disqus Start
+151.101.100.134	disqus.com
+151.101.100.134	www.disqus.com
+151.101.100.134	content.disqus.com
+151.101.100.134	referrer.disqus.com
+151.101.100.134	docs.disqus.com
+151.101.100.134	dropbox.disqus.com
+151.101.100.134	apkpure.disqus.com
+151.101.100.64	glitter.services.disqus.com
+151.101.100.64	links.services.disqus.com
+173.192.82.196	realtime.services.disqus.com
+50.18.249.249	help.disqus.com
+23.65.183.218	about.disqus.com
+23.65.183.218	blog.disqus.com
+23.65.183.218	publishers.disqus.com
+# Disqus End
 
 # Github start
 192.30.253.113	gist.github.com
@@ -3189,7 +3141,7 @@ vokins HOSTS ADs
 
 
 
-#version=201608051206
+#version=201612081705
 #url=https://github.com/vokins/yhosts
 127.0.0.1 acdid.acdsystems.com
 127.0.0.1 activate.adobe.com
